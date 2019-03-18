@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalizationApp</string>
+    <string name="greating_message">Bienvenue à tous</string>
+    <string name="hint_message">Entrez votre nom</string>
+    <string name="button_lable">Soumettre</string>
+    <string name="selected_language">French</string>
+
+</resources>
