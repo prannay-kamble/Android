@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculateur</string>
+    <string name="basic_calculater">Calculateur de base</string>
+    <string name="scientific_calculater">Scientifique Calcualter</string>
+    <string name="enter_number_one">Entrez le numéro un</string>
+    <string name="enter_number_two">Entrez le numéro deux</string>
+    <string name="result">" Tulos"</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">
+कैलकुलेटर</string>
+    <string name="basic_calculater">मूल गणना करनेवाला</string>
+    <string name="scientific_calculater">
+वैज्ञानिक Calcualter</string>
+    <string name="enter_number_one">
+नंबर एक दर्ज करें</string>
+    <string name="enter_number_two">
+नंबर दो दर्ज करें</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="result">परिणाम :</string>
+</resources>
